@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Somia Kumari 
 
-<!--
-**somia20/somia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**An AI/ML Enthusiast From India**
 
-An AI/ML Enthusiast From India
+
+
 
 - 🔭 I’m currently working on LLMs
 - 🌱 I’m currently learning ...
