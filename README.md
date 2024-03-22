@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on LLMs
 - 📫 How to reach me : unibicsomia20@gmail.com
+- 📋 My Linkdin : https://www.linkedin.com/in/somia-kumari
 
 
 
