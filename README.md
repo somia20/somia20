@@ -1,16 +1,18 @@
 ### Hi 👋, I'm Somia Kumari 
 
+
 **An AI/ML Enthusiast From India**
 
 
 
 
 - 🔭 I’m currently working on LLMs
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Gmail - unibicsomia20@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  📫 How to reach me: unibicsomia20@gmail.com
+
+
+
+
+
+
+
+
