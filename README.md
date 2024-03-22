@@ -7,7 +7,8 @@
 
 
 - 🔭 I’m currently working on LLMs
--  📫 How to reach me: unibicsomia20@gmail.com
+- 📫 How to reach me : unibicsomia20@gmail.com
+- 👨‍💻 My Portfolio :
 
 
 
