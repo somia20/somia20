@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on LLMs
+- 🔭 I’m currently working on LSTM
 - 📫 How to reach me : unibicsomia20@gmail.com
 - 📋 My Linkedin : https://www.linkedin.com/in/somia-kumari-b36aa5217/
 
